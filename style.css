@@ -1,0 +1,51 @@
+
+body {
+    background-color: white;
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    color: gray; /* Dark gray text color */
+}
+
+
+.header {
+    background-color: blue; /* Deep blue background */
+    color: white; /* White text color */
+    text-align: center; /* Centers the heading and paragraph text */
+    padding: 40px; /* Adds space inside the box around the text */
+}
+
+.main-content {
+    background-color: white; /* White box background for readability */
+    max-width: 600px; /* Limits how wide the text box can stretch */
+    margin: 30px auto; /* 30px gap top/bottom, 'auto' centers the box horizontally */
+    padding: 20px; /* Adds breathing room inside the white box */
+    border-radius: 8px; /* Smooths out the sharp corners of the box */
+}
+
+h2 {
+    color: #2b6cb0;
+    border-bottom: 2px solid #e2e8f0;
+    padding-bottom: 5px;
+}
+
+ul {
+    padding-left: 20px; 
+}
+
+
+.my-button {
+    display: inline-block;
+    background-color: #e53e3e; 
+    color: white; 
+    padding: 10px 20px; 
+    text-decoration: none;
+    border-radius: 5px; 
+    margin-top: 15px; 
+}
+
+.footer {
+    text-align: center; 
+    padding: 20px;
+    font-size: 14px; 
+    color: #718096; 
+}
